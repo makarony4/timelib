@@ -1,4 +1,13 @@
 {
+  "name": "time/example",
+  "description": "example time package",
+  "license": "GPL-3.0-only",
+  "authors": [
+    {
+      "name": "Andrii",
+      "email": "test@test.com"
+    }
+  ],
   "require": {
   },
   "autoload": {
